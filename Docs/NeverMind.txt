@@ -14,9 +14,16 @@ it's not your life < not ur life
 
 
 
-хочу: 1) стреф заднего фона при движении мыши.
+
+хочу: 	1) стрейф заднего фона при движении мыши.
 	2) 
 
+create-react-app
+styled-components
+react-three
+three.js
+react-three-fiber
+react-three-drei
 
 
 
